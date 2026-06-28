@@ -1,6 +1,6 @@
 # File Manager in Python
 
-A simple command-line file management system built using Python and pathlib.
+A simple command-line file management system built using python and pathlib.
 
 ## Features
 
